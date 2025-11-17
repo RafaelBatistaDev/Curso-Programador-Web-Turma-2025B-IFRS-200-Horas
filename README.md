@@ -1,5 +1,5 @@
-# Programador-Web---Turma-2025B--IFRS
-Programador Web - Turma 2025B
+# Programador Web Turma 2025B IFRS 200 Horas
+Programador Web - Turma 2025B 200 Horas
 Dados Gerais do Curso
  Conteúdo: HTML, CSS, Lógica da Programação, JavaScript, Banco de Dados, Projetos de Sistemas Web.
 
